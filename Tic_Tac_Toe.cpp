@@ -44,12 +44,12 @@ void print_blank()
 
 void print_bigO()
 {
-    cout << "0 "; // later to be changed with graphics ;)
+    cout << "O "; // later to be changed with graphics ;)
 }
 
 void print_bigX()
 {
-    cout << "1 "; // later to be changed with graphics ;)
+    cout << "X "; // later to be changed with graphics ;)
 }
 
 void logic()
